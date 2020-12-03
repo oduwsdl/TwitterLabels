@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606314584462.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FC526605",
+    "lastKnownWriteTime" : 1606314388,
+    "last_content_update" : 1606314584462,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2DBAEE2B",
+        "caption" : "month_df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=month_df&cache_key=2DBAEE2B",
+        "displayedObservations" : 10,
+        "environment" : "",
+        "expression" : "month_df",
+        "object" : "month_df",
+        "preview" : 0,
+        "totalObservations" : 10,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
