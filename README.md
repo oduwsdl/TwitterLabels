@@ -21,4 +21,4 @@ Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA)
   * 1 - Fact-check label
   * 0 - "Violated Twitte Rules" label
 2. voilationlabels_trump_2020-11-10.csv: Tweets labeled for violating Twitter rules. 
-3. Extract_labels_mementos: Contain data files and code to extract labels from old UI mementos in IA.
+3. Extract_labels_mementos: Contain data files and code to extract labels from old UI mementos in IA (used to plot the above visualization).
