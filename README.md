@@ -6,5 +6,26 @@ Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA)
 
 ### Dataset
 1. realDonaldTrump_LabeledTweets.tsv: Labelled tweets/retweets by @realDonaldTrump from May 25, 2020 through Nov 25, 2020 (six months).
+ 
+ a. Date
+ 
+ b. What's labeled? T/RT
+  * T - Tweet authored by Donal Trump is labeled.
+  * RT - Original tweet that was retweeted/ quote tweeted by Donal Trump is labeled.
+  * T&RT - Both the original tweet that was quote tweeted by Donal Trump and his quote tweet is labeled.
+ 
+ c. Tweet_ID
+ 
+ d. Type  
+  * F - Fact checked
+  * V - Twitter rules violated
+  * F&V - Has both 
+  * RT - Trump's tweet is not labeled but the original tweeted that he retweeted is labeled
+ 
+ e. Our Categorization: F(1) V(0)
+  * 1 - Fact-check label
+  * 0 - "Violated Twitte Rules" label
+
+
 2. voilationlabels_trump_2020-11-10.csv: Tweets labeled for violating Twitter rules. 
 3. Extract_labels_mementos: Contain data files and code to extract labels from old UI mementos in IA.
