@@ -8,7 +8,7 @@ status_id=$1
 mkdir $status_id
 MYURL='https://twitter.com/realDonaldTrump/status/'$status_id
 
-curl -s curl -s http://memgator.cs.odu.edu/timemap/link/$MYURL > $status_id/memgator_res$status_id 
+curl -s http://memgator.cs.odu.edu/timemap/link/$MYURL > $status_id/memgator_res$status_id 
 curl -s https://web.archive.org/cdx/search/cdx?url=$MYURL > $status_id/cdx_res$status_id 
 cat $status_id/cdx_res$status_id| awk -F" " '$5=="200" && $7> 40000 {print}' | cut -d" " -f2 > $status_id/URMs$status_id
 
