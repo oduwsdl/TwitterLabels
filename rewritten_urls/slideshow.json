@@ -1,0 +1,12 @@
+[
+  {
+    "img": "https://example.com/img/picture-1.png",
+    "link": "https://example.com/page-1.html",
+    "caption": "Page 1 Title"
+  },
+  {
+    "img": "https://example.com/img/picture-2.png",
+    "link": "https://example.com/page-2.html",
+    "caption": "https://example.com/page-2.html"
+  }
+]
