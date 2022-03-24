@@ -1,5 +1,5 @@
 {
-"Case_1": "http://www.cs.odu.edu/",
-"Case_2": "http://www.cs.odu.edu This is text",
-"Case_3": "This is text https://www.cs.odu.edu/"
+"Case_1": "https://example.com/",
+"Case_2": "https://example.com/ This is text",
+"Case_3": "This is text https://example.com/"
 }
