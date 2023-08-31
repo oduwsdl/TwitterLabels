@@ -35,10 +35,10 @@ Analyzing new Twitter UI mementos for temporal violations.
 
 ## Citing Project
 
-A publication related to this project appeared in the proceedings of JCDL 2021 ([Read the PDF](https://arxiv.org/pdf/2108.12092.pdf)). Please cite it below:
+A publication related to this project appeared in the proceedings of JCDL 2021 ([Read the PDF](https://arxiv.org/pdf/2108.12092.pdf)). This work is also published in the International Journal on Digital Libraries special issue ([PDF](https://doi.org/10.1007/s00799-023-00379-w)). Please cite it below:
 
 ```bib
-@inproceedings{Garg2021Twitter,
+@inproceedings{JCDL@Garg2021Twitter,
  author    = {Garg, Kritika and Jayanetti, Himarsha R. and Alam, Sawood and Weigle, Michele C. and Nelson, Michael L.},
  title     = {Replaying Archived Twitter: When your bird is broken, will it bring you down?},
  booktitle = {Proceedings of the 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
