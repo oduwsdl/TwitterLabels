@@ -26,7 +26,7 @@ Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA)
 3. **Extract_labels_mementos**: Contain data files and code to extract labels from old UI mementos in IA (used to plot the above visualization).
 
 
-## Temporal delta in Twitter's new UI memento replay
+## Temporal delta 
 Analyzing new Twitter UI mementos for temporal violations.
 
 #### Dataset
