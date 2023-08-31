@@ -1,4 +1,6 @@
-# TwitterLabels
+# Challenges in replaying archived Twitter pages
+
+## TwitterLabels
 Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA). 
 ![](Extract_labels_mementos/Rplot02.png)
 
@@ -22,6 +24,14 @@ Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA)
   * 0 - "Violated Twitte Rules" label
 2. **voilationlabels_trump_2020-11-10.csv**: Tweets labeled for violating Twitter rules. 
 3. **Extract_labels_mementos**: Contain data files and code to extract labels from old UI mementos in IA (used to plot the above visualization).
+
+
+## Temporal delta in Replay
+Analyzing new Twitter UI mementos for temporal violations.
+
+### Dataset
+1. 
+
 
 ## Citing Project
 
