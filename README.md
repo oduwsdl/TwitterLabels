@@ -30,8 +30,8 @@ Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA)
 Analyzing new Twitter UI mementos for temporal violations.
 
 #### Dataset
-1. **temporalviolations_replaydeltaofall5sections.tsv**: Delta between the datetime of the Twitter memento and the datetime of all five embedded sections (tweets, bio, media, “You might like”, and “What’s happening”). 
-2. **temporalviolations_offbytweets_inNewUI.tsv**: New UI account page Twitter mementos with the missing number of tweets. 
+1. **replaydeltaofall5sections.tsv**: Delta between the datetime of the Twitter memento and the datetime of all five embedded sections (tweets, bio, media, “You might like”, and “What’s happening”). 
+2. **offbytweets_inNewUI.tsv**: New UI account page Twitter mementos with the missing number of tweets. 
 
 ## Citing Project
 
