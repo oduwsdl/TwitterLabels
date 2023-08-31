@@ -22,3 +22,20 @@ Analyzing President Trump’s tweets labeled by Twitter in Internet archive (IA)
   * 0 - "Violated Twitte Rules" label
 2. **voilationlabels_trump_2020-11-10.csv**: Tweets labeled for violating Twitter rules. 
 3. **Extract_labels_mementos**: Contain data files and code to extract labels from old UI mementos in IA (used to plot the above visualization).
+
+## Citing Project
+
+A publication related to this project appeared in the proceedings of JCDL 2021 ([Read the PDF](https://arxiv.org/pdf/2108.12092.pdf)). Please cite it below:
+
+```bib
+@inproceedings{Garg2021Twitter,
+ author    = {Garg, Kritika and Jayanetti, Himarsha R. and Alam, Sawood and Weigle, Michele C. and Nelson, Michael L.},
+ title     = {Replaying Archived Twitter: When your bird is broken, will it bring you down?},
+ booktitle = {Proceedings of the 2021 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+ year      = {2021},
+ pages     = {160-169},
+ doi       = {10.1109/JCDL52503.2021.00028},
+ url       = {http://dx.doi.org/10.1109/JCDL52503.2021.00028},
+ month     = {sep}
+}
+```
